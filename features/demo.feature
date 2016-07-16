@@ -158,3 +158,5 @@ Feature: Sample Demo
 # Also struggling to find text on a page (exact match or contains...)
 # after finding items i also struggle to verify them being true or not. then do something with the result
 # e.g if it is true do this, if it is not true do this
+
+  # added by jay for dem
