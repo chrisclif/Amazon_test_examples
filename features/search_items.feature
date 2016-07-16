@@ -26,7 +26,7 @@ Feature: search for items
 
 
 
-
+Scenario: added by jay 2
 
   # Write two more search test
   # Upload to GIT and inform Jay
