@@ -45,3 +45,5 @@ Feature: Navigate around the Amazon application
       | Appstore for Android         |
       | Kindle E-readers & Books     |
       | Car & Motorbike              |
+
+    Scenario:  added by jay
