@@ -126,6 +126,7 @@ Feature: Sample Demo
   # http://agileforall.com/wp-content/uploads/2011/08/Cucumber-Regular-Expressions-Cheat-Sheet.pdf
   # How to use http://rubular.com/
   # => Shop By Department Hovering
+  # GIT
 
   # Write test scenario using arrays [add product]
   # attempt Scenario outline: to verify that 5 links are present in amazon.co.uk home page
